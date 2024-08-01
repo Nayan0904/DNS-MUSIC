@@ -41,7 +41,7 @@ async def repo(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/mr_nayan_49"
                     )
                 ]
             ]
@@ -59,7 +59,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/mr_nayan_49"
                     )
                 ]
             ]
@@ -76,7 +76,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/Rajputshivsingh65/DNS-MUSIC"
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/mr_nayan_49"
                     )
                 ]
             ]
@@ -111,7 +111,7 @@ async def add_all(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
         await message.reply(
-            "**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @AlienMusic_opbot`**"
+            "**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @Jiyaa_Music_bot`**"
         )
         return
 
