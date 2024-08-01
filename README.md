@@ -3,7 +3,7 @@
 🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
 <!--
-THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+THIS is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -82,11 +82,11 @@ bash start
 </h3>
 
 <p align="center">
-<a href="https://t.me/cof_music_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+I1l5BiLLJfxhNzY1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/Dns_Official_Channel"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/cof_music_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʀᴀᴊᴘᴜᴛ sʜɪᴠ](https://t.me/Dns_Official_Channel) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/Dns_Official_Channel)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʀᴀᴊᴘᴜᴛ sʜɪᴠ]() ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/cof_music_support)_ </b>
