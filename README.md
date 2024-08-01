@@ -24,7 +24,7 @@ THIS is a ✨ _special_ ✨ repository because its README.md (this file) appears
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/70a65c0a8f2998d40f339.jpg">
+  <img src="https://graph.org/file/f6d5f7195eeb6641837df.jpg">
 </p>
 
 <p align="center">
