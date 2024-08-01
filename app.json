@@ -1,7 +1,7 @@
 {
     "name": "🎶✨ 𝐉𝐈𝐘𝐀 𝐌𝐔𝐒𝐈𝐂 🎵🎧",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/70a65c0a8f2998d40f339.jpg",
+    "logo": "https://graph.org/file/f6d5f7195eeb6641837df.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -64,7 +64,7 @@
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://graph.org/file/1f1ebe06c8ab4ed671a41.jpg",
+        "value": "https://graph.org/file/fbf9c15360f094ddffe05.jpg",
         "required": false
       },
       "LOGGER_ID": {
