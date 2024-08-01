@@ -89,4 +89,4 @@ bash start
 <a href="https://t.me/cof_music_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʀᴀᴊᴘᴜᴛ sʜɪᴠ]() ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/cof_music_support)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [NAYAN]() ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/cof_music_support)_ </b>
