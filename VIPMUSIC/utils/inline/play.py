@@ -110,10 +110,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url="https://t.me/Dns_Official_Channel",
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url="https://t.me/cof_music_support",
             ),
             InlineKeyboardButton(
-                text="Update 📡", url="https://t.me/Dns_Official_Channel",
+                text="Update 📡", url="https://t.me/cof_music_support",
             ),
         ],
         [
