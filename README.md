@@ -15,16 +15,16 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
 
 
 <h2 align="center">
-    ─「 𝐒𝐇𝐈𝐕 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 𝐉𝐈𝐘𝐀 𝐌𝐔𝐒𝐈𝐂 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <h2 align="center">
-    ─「 sʜɪᴠ ダ ᴍᴜsɪᴄ 」─
+    ─「 𝐉𝐈𝐘𝐀 ダ 𝐌𝐔𝐒𝐈𝐂 」─
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ccb70957819c2abfa5466.jpg">
+  <img src="https://graph.org/file/70a65c0a8f2998d40f339.jpg">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://t.me/Dns_Official_Channel)
+- Get your [Necessary Variables](https://t.me/cof_music_support)
 - Upgrade and Update by :
 sudo apt-get update && sudo apt-get upgrade -y
 - Install Ffmpeg by :
@@ -61,7 +61,7 @@ sudo pip3 install -U pip
 - Install Node js by :
 curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 - Clone the repository by :
-git clone https://github.com/Rajputshivsingh65/DNS-MUSIC && cd DNS-MUSIC
+git clone https://github.com/Nayan0904/DNS-MUSIC && cd DNS-MUSIC
 - Install requirements by :
 pip3 install -U -r requirements.txt
 - Fill your variables in the env by :
@@ -82,7 +82,7 @@ bash start
 </h3>
 
 <p align="center">
-<a href="https://t.me/Dns_Official_Channel"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/cof_music_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
