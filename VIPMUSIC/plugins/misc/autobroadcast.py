@@ -9,7 +9,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
 AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
-START_IMG_URLS = "https://telegra.ph/file/8f4653dfada0a9bc112b5.jpg"
+START_IMG_URLS = "https://graph.org/file/6dc34a7babe46c45f4e72.jpg"
 
 MESSAGES = f"""**๏𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐦𝐮𝐬𝐢𝐜 𝐩𝐥𝐚𝐲𝐞𝐫 𝐛𝐨𝐭 𝐟𝐨𝐫 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐠𝐫𝐨𝐮𝐩𝐬 +𝐜𝐡𝐚𝐧𝐧𝐞𝐥𝐬 𝐯𝐜.🔥
 ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
@@ -20,23 +20,23 @@ MESSAGES = f"""**๏𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 �
 
 😀ᴜꜱᴇ » /start ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-😀 ʙᴏᴛ : @MissShikha_Bot
-😀 ʙᴏᴛ : @MissShikha_Bot
+😀 ʙᴏᴛ : @Jiyaa_Music_bot
+😀 ʙᴏᴛ : @jiyaaa_bot
 🔒ᴜꜱᴇ » /start ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-✅ ʙᴏᴛ : @MissShikha_Bot
+✅ ʙᴏᴛ : @Jiyaa_Music_bot
 ⚡️⚡️⚡️⚡️⚡️⚡️⚡️.
 
-𝐎ᴡɴᴇʀ :- @II_RAJPUT_SHIV_OP_II
+𝐎ᴡɴᴇʀ :- @mr_nayan_49
 
-𝐉ᴏɪɴ ᴄʜᴀɴɴᴇʟ :- https://t.me/Dns_Official_Channel**"""
+𝐉ᴏɪɴ ᴄʜᴀɴɴᴇʟ :- https://t.me/cof_music_support**"""
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "๏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ๏",
-                url=f"https://t.me/MissShikha_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/Jiyaa_Music_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
@@ -57,7 +57,7 @@ BUTTON = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/MissShikha_Bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/Jiyaa_Music_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
