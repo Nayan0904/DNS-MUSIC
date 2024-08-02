@@ -81,7 +81,7 @@ def aq_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/Dns_Official_Channel",
+                url="https://t.me/cof_music_support",
             ),
         ],
     ]
