@@ -8,10 +8,8 @@ LOGGERS = "DNS_HACKOP_BOT"  # connect errors api key "Dont change it"
 languages = {}
 languages_present = {}
 
-
 def get_string(lang: str):
     return languages[lang]
-
 
 for filename in os.listdir(r"./strings/langs/"):
     if "en" not in languages:
@@ -35,7 +33,6 @@ for filename in os.listdir(r"./strings/langs/"):
         print("There is some issue with the language file inside bot.")
         exit()
 
-
 # Add HTTP server to satisfy Render's requirement
 PORT = int(os.getenv("PORT", 5000))
 
@@ -46,10 +43,13 @@ class SimpleHandler(BaseHTTPRequestHandler):
         self.wfile.write(b'Hello, world!')
 
 def run_server():
-    server_address = ('', PORT)
-    httpd = HTTPServer(server_address, SimpleHandler)
-    print(f'Serving on port {PORT}')
-    httpd.serve_forever()
+    try:
+        server_address = ('0.0.0.0', PORT)
+        httpd = HTTPServer(server_address, SimpleHandler)
+        print(f'Serving on port {PORT}')
+        httpd.serve_forever()
+    except Exception as e:
+        print(f'Failed to start HTTP server: {e}')
 
 if __name__ == "__main__":
     # Start the HTTP server in a new thread
@@ -60,3 +60,5 @@ if __name__ == "__main__":
 
     # Your bot initialization code here
     # e.g., bot.run_polling()
+    print('Bot is starting...')
+    # Example: bot.polling(none_stop=True)
