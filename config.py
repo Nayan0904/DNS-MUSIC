@@ -6,6 +6,10 @@ from pyrogram import filters
 
 load_dotenv()
 
+# Web Response Config
+    WEBHOOK = bool(os.environ.get("WEBHOOK", True))
+    PORT = int(os.environ.get("PORT", "8080"))
+
 # Get this value from my.telegram.org/apps
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
